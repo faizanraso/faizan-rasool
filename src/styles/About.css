@@ -1,0 +1,25 @@
+.about-section{
+    height: 100%;
+}
+
+.about-section-div{
+    display: inline-block;
+    margin: 0vh 17vw;
+    width: 60vw;
+    height: 100%;
+}
+
+.about-section-text{
+    width: 37vw;
+    height: 40%;
+    float: left;
+}
+
+.profile-pic-div{
+    float: right;
+}
+
+.profilepic{
+    margin: 10px 0px;
+    border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+.experiences-div{
+    font-family: "Montserrat", sans-serif;
+    margin: 15vh 17vw;
+    width: 60vw;
+    height: 100%;
+    white-space: normal;
+
+}
+
+.job-experience-card{
+    margin: 40px 3vw;
+    background-color: #172532;
+    padding: 10px;
+    border-radius: 8px;
+    width: 50vw;
+}
+
+.job-card-title{
+    color: #657582;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.job-card-date{
+    color: #8899A6;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}

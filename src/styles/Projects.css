@@ -1,0 +1,9 @@
+.projects-section-div{
+    height: 100%;
+    width: 60vw;
+    margin: 15vh 17vw;
+}
+.projects-section{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.card-component{
+    flex: 0 0 auto;
+    width: 45%;
+    border-radius: 10px;
+    margin: 20px 20px;
+    background-color: #172532;
+}
+
+.project-card-title{
+    margin: 10px 10px;
+    font-size: 1.2rem;
+}
+
+.project-card-description{
+    margin: 20px 10px;
+}
+
+.github-button-project{
+    float: right;
+    margin: 20px;
+}
+
